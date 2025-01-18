@@ -82,4 +82,7 @@ When the right half of the keyboard is connected via the USB cable run:
 
 
 # Random Info
-Our microcontroller is a Pro Micro/Arduino Micro based on ATmega32U4
+
+- Our microcontroller is a Pro Micro/Arduino Micro based on ATmega32U4.
+
+- To create an image that visualizes the layout, check the `layout_visualization/` folder.
