@@ -30,7 +30,7 @@
       "LCTL_T(KC_E)",
       "LALT_T(KC_I)",
       "LGUI_T(KC_O)",
-      "OSM(MOD_RSFT)",
+      "CW_TOGG",
       "KC_NO",
       "KC_Z",
       "RALT_T(KC_X)",
