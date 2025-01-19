@@ -1,4 +1,6 @@
+# xXErgoZenithXx
 
+![Layout](layout.jpg)
 
 # Modifying the layout
 To modify the layout, load the current `keymap/keymap.json` in the [configurator](https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3)
