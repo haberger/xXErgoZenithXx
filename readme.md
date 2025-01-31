@@ -64,7 +64,7 @@ XXXXX bytes of flash verified
 Avrdude done.  Thank you.
 ```
 
-### Using QMK toolbox
+### Using [QMK toolbox](https://qmk.fm/toolbox)
 - Choose the `crkbd_rev1_dhaberger.hex` file (found inside this repository) with the file-chooser
 - Choose the `ATmega32U4` as the controller
 - Check the autoflash checkbox
